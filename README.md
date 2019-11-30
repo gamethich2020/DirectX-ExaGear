@@ -1,7 +1,7 @@
-#ExaGear Graphics Update Test
+# ExaGear Graphics Update Test
 
-# Fix Graphics Patch v7.0 Update New
-# by Game Thich 2019/2020
+Fix Graphics Patch v7.0 Update New
+by Game Thich 2019/2020
 
 Fix DirectX 9.0c
 Fix DirectX 11
