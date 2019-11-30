@@ -11,7 +11,7 @@ Fix DxDiag\
 Fix Sound
 
 # Update v6.1
-Fix DxDiag Version 9.0c,11,12 New\
+Fix DxDiag Version 9.0c,11,12 New
 
 # Update v7.0
 Fix Image error\
