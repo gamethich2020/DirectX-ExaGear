@@ -29,7 +29,7 @@ d3d11.dll
 ddraw.dll
 dxgi.dll
 libwine.dll
-opengl32.dll
+opengl32.dll - Update
 wined3d.dll
 
 DirectX 12
@@ -43,7 +43,7 @@ d3d12.dll
 ddraw.dll
 dxgi.dll
 libwine.dll
-opengl32.dll
+opengl32.dll - Update
 wined3d.dll
 
 Vulkan 1.1
@@ -56,7 +56,7 @@ d3d11.dll - vulkan 1.1
 ddraw.dll
 dxgi.dll - vulkan 1.1
 libwine.dll
-opengl32.dll
+opengl32.dll - Update
 wined3d.dll
 vulkan-1.dll - vulkan 1.1
 winevulkan.dll - vulkan 1.1
