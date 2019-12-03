@@ -21,10 +21,10 @@ Fix vulkan 1.1
 Fix DirectX and Vukan All Logo\
 Fix Icon Windows 10
 
-## Update V7.5
-Fix winevulkan.dll update\
-Fix vulkan-1.dll update\
-Coming Soon!
+## Update V7.5 - 3/12/2019
+Fix OpenGL32 v19.2.6 Update\
+Fix Windows ExaGear Update\
+Fix Graphics Vulkan v2 update
 
 ## Update v8.0
 DirectX 13
