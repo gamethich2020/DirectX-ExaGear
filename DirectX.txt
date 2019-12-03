@@ -1,11 +1,14 @@
-Fix Graphics Patch v7.0 Update New
+Fix Graphics Patch v7.5 Update New
 ----------------------------------------------
 by Game Thich
 ----------------------------------------------
 Update 2019 - 2020
 ----------------------------------------------
 
-Fix Graphics Vulkan 1.1 Test Update New
+patch v7.5 - 3/12/2019 New
+Fix OpenGL32 v19.2.4 Update
+Fix Graphics Vulkan v2 Update
+Fix Windows ExaGear Uodate
 
 DirectX 9.0c
 d3d8.dll
@@ -55,6 +58,8 @@ dxgi.dll - vulkan 1.1
 libwine.dll
 opengl32.dll
 wined3d.dll
+vulkan-1.dll - vulkan 1.1
+winevulkan.dll - vulkan 1.1
 
 DxDiag
 dxdiag1.exe
