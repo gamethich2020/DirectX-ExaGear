@@ -26,6 +26,9 @@ Fix OpenGL32 v19.2.6 Update\
 Fix Windows ExaGear Update\
 Fix Graphics Vulkan v2 update
 
+## Update v7.6 - 4/12/2019
+Fix Graphics Speed Low and High
+
 ## Update v8.0
 DirectX 13
 Coming Soon!
