@@ -1,14 +1,12 @@
-Fix ExaGesr and Graphics Patch v7.5 Update New
+Fix ExaGesr and Graphics Patch v7.6 Update New
 ----------------------------------------------
 by Game Thich
 ----------------------------------------------
 Update 2019 - 2020
 ----------------------------------------------
 
-patch v7.5 - 3/12/2019 New
-Fix OpenGL32 v19.2.4 Update
-Fix Graphics Vulkan v2 Update
-Fix Windows ExaGear Uodate
+Update v7.6 - 4/12/2019 New
+Fix Graphics Speed Low and High
 
 DirectX 9.0c
 d3d8.dll
