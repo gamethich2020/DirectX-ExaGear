@@ -15,11 +15,11 @@ Fix OpenGL32 v19.2.6 Update\
 Fix Windows ExaGear Update\
 Fix Graphics Vulkan v2 update
 
-## Update v7.1
+## Update v7.1 - 19/11/2019
 Fix DirectX and Vukan All Logo\
 Fix Icon Windows 10
 
-## Update v7.0
+## Update v7.0 - 16/11/2019
 Fix Image error\
 Fix vulkan 1.1
 
