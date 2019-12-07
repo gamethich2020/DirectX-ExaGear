@@ -1,11 +1,11 @@
-Fix ExaGesr and Graphics Patch v7.6 Update New
+Fix ExaGesr and Graphics Patch v7.7 Update New
 ----------------------------------------------
 by Game Thich
 ----------------------------------------------
 Update 2019 - 2020
 ----------------------------------------------
 
-Update v7.6 - 4/12/2019 New
+Update v7.7 - 7/12/2019 New
 Fix Graphics Speed Low and High
 
 DirectX 9.0c
