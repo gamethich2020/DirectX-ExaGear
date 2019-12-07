@@ -1,11 +1,15 @@
 # ExaGear Graphics Update Test
 
-Graphics Patch v7.6 Update New\
+Graphics Patch v7.7 Update New\
 by Game Thích 2019-2020
 
 ## Update v8.0
 DirectX 13
 Coming Soon!
+
+## Update v7.7 New - 7/12/2019
+Fix Graphics DirectX 11 Backbuffer\
+Fix Graphics Vulkan v3 Backbuffer
 
 ## Update v7.6 - 4/12/2019
 Fix Graphics Speed Low and High
