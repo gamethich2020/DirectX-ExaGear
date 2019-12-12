@@ -10,7 +10,7 @@ Coming Soon!
 ## Update v7.8 Upload....
 Fix DirectX 11 Speed High and Sound\
 Fix DirectX 11 and Sound\
-Fix Vulkan v4 Sound\
+Fix Vulkan v4 Speed and Sound\
 Fix Sound Draw 1 No\
 Fix DX 9.0c and DX 12 Setup No
 
