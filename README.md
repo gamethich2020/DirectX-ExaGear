@@ -8,10 +8,10 @@ DirectX 13
 Coming Soon!
 
 ## Update v7.8 Upload....
-Fix DirectX 11 Speed High and Sound
-Fix DirectX 11 and Sound
-Fix Vulkan v4 Sound
-Fix Sound Draw 1 No
+Fix DirectX 11 Speed High and Sound\
+Fix DirectX 11 and Sound\
+Fix Vulkan v4 Sound\
+Fix Sound Draw 1 No\
 Fix DX 9.0c and DX 12 Setup No
 
 ## Update v7.7 New - 7/12/2019
