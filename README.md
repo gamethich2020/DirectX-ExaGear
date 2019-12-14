@@ -7,14 +7,14 @@ by Game Thích 2019-2020
 DirectX 13
 Coming Soon!
 
-## Update v7.8 Upload....
+## Update v7.8 Update New - 7/12/2019
 Fix DirectX 11 Speed High and Sound\
 Fix DirectX 11 and Sound\
 Fix Vulkan v4 Speed and Sound\
 Fix Sound Draw 1 No\
 Fix DX 9.0c and DX 12 Setup No
 
-## Update v7.7 New - 7/12/2019
+## Update v7.7 - 7/12/2019
 Fix Graphics DirectX 11 Backbuffer\
 Fix Graphics Vulkan v3 Backbuffer
 
