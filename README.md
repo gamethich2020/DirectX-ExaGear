@@ -7,7 +7,10 @@ by Game Thích 2019-2020
 DirectX 13
 Coming Soon!
 
-## Update v7.8 Update New - 7/12/2019
+## Update v7.9 Coming Soon!
+Fix DxDiag ExaGear Image FPS
+
+## Update v7.8 New - 7/12/2019
 Fix DirectX 11 Speed High and Sound\
 Fix DirectX 11 and Sound\
 Fix Vulkan v4 Speed and Sound\
