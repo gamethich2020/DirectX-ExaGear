@@ -7,6 +7,10 @@ by Game Thích 2019-2020
 DirectX 13
 Coming Soon!
 
+## Update v7.9 New - 13/1/2020
+Fix DX 11 and Sound\
+Fix DX 12 and Sound
+
 ## Update v7.8 New - 7/12/2019
 Fix DirectX 11 Speed High and Sound\
 Fix DirectX 11 and Sound\
