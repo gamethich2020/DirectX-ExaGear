@@ -6,7 +6,7 @@ by Game Thích 2019-2020
 ## Update v8.0 - 15/2/2020
 DirectX 13 Whitout!\
 Fix DirectX 11 and 12 Update\
-Vulkan Sound Fix Update\
+Vulkan No Fix Update\
 Fix DxDiagn\
 Fix VietNam
 
