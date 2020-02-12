@@ -3,9 +3,12 @@
 Graphics Patch v7.7 Update New\
 by Game Thích 2019-2020
 
-## Update v8.0
-DirectX 13
-Coming Soon!
+## Update v8.0 - 15/2/2020
+DirectX 13 Whitout!\
+Fix DirectX 11 and 12 Update\
+Vulkan Sound Fix Update\
+Fix DxDiagn\
+Fix VietNam
 
 ## Update v7.9 New - 13/1/2020
 Fix DX 11 and Sound\
