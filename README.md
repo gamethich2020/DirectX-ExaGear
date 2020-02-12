@@ -1,6 +1,6 @@
 # ExaGear Graphics Update Test
 
-Graphics Patch v7.7 Update New\
+Graphics Patch v8.0 Beta Update New\
 by Game Thích 2019-2020
 
 ## Update v8.0 - 15/2/2020
