@@ -3,6 +3,15 @@
 Graphics Patch v8.0 Beta Update New\
 by Game Thích 2019-2020
 
+## Update v9.0 - 17/6/2020
+Fix Logo OpenGL + Remove Mod\
+Fix Logo DirectX 4.5\
+Fix DirectX old and OpenGL old + Speed\
+Fix OpenGL 2.1 Bug\
+Fix Dxdiag Version v6.0 Graphics All\
+Fix Software 2D Speed + Remove NOT!\
+Fix Dsound
+
 ## Update v8.0 - 15/2/2020
 DirectX 13 Whitout!\
 Fix DirectX 11 and 12 Update\
