@@ -11,7 +11,7 @@ Fix OpenGL 2.0 Version Old Update Crash!\
 Fix OpenGL 18.0.0 Speed Test!\
 OpenGL RIP Delete NOT
 
-# Version 10.0 Old +OpenGL
+Version 10.0 Old +OpenGL
 Fix OpenGL 2.1 Backbuffer +Remove\
 Fix OpenGL All +Remove\
 DirectX DLL Library NOT Error TEST\
