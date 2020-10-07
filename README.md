@@ -3,8 +3,6 @@
 Graphics Patch v10.0 Beta Update New\
 by Game Thích 2019-2020
 
-## ExaGear and Graphics Patch v10.0 Beta 5
-
 ## Version 10.0 Beta v5
 Fix DirectX 12 Speed Screen\
 Fix Software Old and Dsound\
