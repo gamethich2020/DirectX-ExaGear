@@ -1,11 +1,11 @@
-# ExaGear Graphics Update Test
+## ExaGear Graphics Update Test
 
-Graphics Patch v8.0 Beta Update New\
+Graphics Patch v10.0 Beta Update New\
 by Game Thích 2019-2020
 
-#ExaGear and Graphics Patch v10.0 Beta 5
+## ExaGear and Graphics Patch v10.0 Beta 5
 
-##Version 10.0 Beta v5
+## Version 10.0 Beta v5
 Fix DirectX 12 Speed Screen\
 Fix Software Old and Dsound\
 Fix WGLGear Update!\
@@ -13,7 +13,7 @@ Fix OpenGL 2.0 Version Old Update Crash!\
 Fix OpenGL 18.0.0 Speed Test!\
 OpenGL RIP Delete NOT
 
-#Version 10.0 Old +OpenGL
+# Version 10.0 Old +OpenGL
 Fix OpenGL 2.1 Backbuffer +Remove\
 Fix OpenGL All +Remove\
 DirectX DLL Library NOT Error TEST\
