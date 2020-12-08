@@ -3,6 +3,10 @@
 Graphics Patch v10.0 Beta Update New\
 by Game Thích 2019-2020
 
+## Version 11.0 Beta - 8/12/2020
+Fix DirectX 11 and Vulkan\
+Fix Benchmark Vulkan
+
 ## Version 10.1 beta v5 - 8/10/2020
 Fix DX 12\
 Fix OpenGL 18.0.0
