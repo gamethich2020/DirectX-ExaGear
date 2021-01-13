@@ -1,7 +1,10 @@
 ## ExaGear Graphics Update Test
 
 Graphics Patch v10.0 Beta Update New\
-by Game Thích 2019-2020
+by Game Thích 2019-2021
+
+## Version 12 Beta 6 - 13/1/2021
+Fixed DMusic.dll Bug
 
 ## Version 11.0 Beta - 8/12/2020
 Fix DirectX 11 and Vulkan\
