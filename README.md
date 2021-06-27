@@ -3,6 +3,12 @@
 Graphics Patch v10.0 Beta Update New\
 by Game Thích 2019-2021
 
+## Version 13.0 Beta - 18/3/2021 Update New!
+Fixed DirectX 8.0\
+Fixed Software DMusic\
+Fixed DX 8.0 and OpenGL 2.1\
+Fixed SwiftShader
+
 ## Version 12 Beta 6 - 13/1/2021
 Fixed DMusic.dll Bug
 
